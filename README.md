@@ -82,6 +82,7 @@
 &emsp;&emsp;Wild Tribe\
 &emsp;&emsp;Dino Corpse\
 &emsp;Structures\
+&emsp;&emsp;Turrets
 \
 **Colors > HUD / UI**\
 &emsp;Logo Hue\
