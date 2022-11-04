@@ -51,6 +51,7 @@
 &emsp;&emsp;Gamertag Spoofer\
 &emsp;&emsp;&emsp;Gamertag
 \
+\
 **Exploits > Weapon Mods**\
 &emsp;Enabled\
 &emsp;&emsp;No Sway\
@@ -83,7 +84,6 @@
 &emsp;&emsp;Dino Corpse\
 &emsp;Structures\
 &emsp;&emsp;Turrets
-\
 \
 **Colors > HUD / UI**\
 &emsp;Logo Hue\
