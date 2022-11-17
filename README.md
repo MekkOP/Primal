@@ -29,6 +29,7 @@
 &emsp;&emsp;Vis Check\
 &emsp;&emsp;Target Sleepers\
 &emsp;&emsp;Target Tribe\
+&emsp;&emsp;Aim Bone
 \
 **Aimbot > Silent Aim**\
 &emsp;Enabled\
@@ -36,15 +37,24 @@
 &emsp;&emsp;Target Sleepers\
 &emsp;&emsp;Use FOV\
 &emsp;&emsp;Target Tribe\
+&emsp;&emsp;Aim Bone\
 \
 **Aimbot > Triggerbot**\
-&emsp;Coming Soon\
+&emsp;Enabled\
+&emsp;&emsp;Use Keybind\
+&emsp;&emsp;Target Tribe\
+&emsp;&emsp;Sleepers\
+&emsp;&emsp;Rapid\
+&emsp;&emsp;Ignore Shield\
 \
 \
 **Exploits > Player Mods**\
 &emsp;Enabled\
 &emsp;&emsp;Unlock Note\
 &emsp;&emsp;Unlock Engrams\
+&emsp;&emsp;Long Arms\
+&emsp;&emsp;Auto Loot\
+&emsp;&emsp;Air Stuck\
 &emsp;&emsp;Ghost Mode\
 &emsp;&emsp;Speed\
 &emsp;&emsp;&emsp;Speed Slider\
@@ -100,8 +110,13 @@
 &emsp;Load\
 \
 **Settings > Other**\
-&emsp;Coming Soon\
+&emsp;Chams\
+&emsp;&emsp;WireFrame Override\
+&emsp;&emsp;&emsp;Player Opacity\
+&emsp;&emsp;&emsp;&emsp;Player Opacity Slider\
+&emsp;&emsp;&emsp;Dino Opacity\
+&emsp;&emsp;&emsp;&emsp;Dino Opacity Slider\
+&emsp;&emsp;&emsp;Structure Opacity\
+&emsp;&emsp;&emsp;&emsp;Structure Opacity Slider\
 \
-Free Primal Features
-test
-test2
+Paid Primal Features
