@@ -120,4 +120,4 @@
 &emsp;&emsp;&emsp;Structure Opacity\
 &emsp;&emsp;&emsp;&emsp;Structure Opacity Slider\
 \
-Paid Primal Features
+**Paid Primal Features**
