@@ -31,6 +31,7 @@
 &emsp;&emsp;Target Tribe\
 &emsp;&emsp;Aim Bone
 \
+\
 **Aimbot > Silent Aim**\
 &emsp;Enabled\
 &emsp;&emsp;Use Keybind\
