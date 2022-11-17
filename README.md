@@ -114,10 +114,7 @@
 &emsp;Chams\
 &emsp;&emsp;WireFrame Override\
 &emsp;&emsp;&emsp;Player Opacity\
-&emsp;&emsp;&emsp;&emsp;Player Opacity Slider\
 &emsp;&emsp;&emsp;Dino Opacity\
-&emsp;&emsp;&emsp;&emsp;Dino Opacity Slider\
 &emsp;&emsp;&emsp;Structure Opacity\
-&emsp;&emsp;&emsp;&emsp;Structure Opacity Slider\
 \
 **Paid Primal Features**
