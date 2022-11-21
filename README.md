@@ -118,3 +118,7 @@
 &emsp;&emsp;&emsp;Structure Opacity\
 \
 **Paid Primal Features**
+\
+\
+# Changelogs
+Changelogs (date)
