@@ -61,6 +61,7 @@
 &emsp;&emsp;&emsp;Speed Slider\
 &emsp;&emsp;Gamertag Spoofer\
 &emsp;&emsp;&emsp;Gamertag
+&emsp;&emsp;Auto Flak\
 \
 \
 **Exploits > Weapon Mods**\
@@ -118,6 +119,30 @@
 &emsp;&emsp;&emsp;Structure Opacity\
 \
 **Paid Primal Features**
+
+# Features that are NOT in Free Primal:
+Chams\
+&emsp;All player visuals\
+&emsp;All tamed dino visuals\
+&emsp;All wild dino visuals\
+&emsp;All structure visuals\
+\
+Aimbot\
+&emsp;All Aimbot options\
+&emsp;All Silent Aim options\
+&emsp;All Triggerbot options\
+\
+Exploits\
+&emsp;Auto Loot\
+&emsp;Speed\
+&emsp;Infinite Tek Punch\
+&emsp;Auto Flak\
+\
+Colors\
+&emsp;N/A\
+\
+Settings\
+&emsp;Chams Opacity
 
 
 # Changelogs
