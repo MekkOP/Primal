@@ -119,6 +119,6 @@
 \
 **Paid Primal Features**
 \
-\
+
 # Changelogs
 Changelogs (date)
