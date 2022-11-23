@@ -138,7 +138,7 @@
 
 # Changelogs
 Based on EST time\
-Changelogs (7:30pm 11/22/22)\
+Changelogs (7:30pm 11/22/22)
 
 - Added Structure ESP
 - Added Auto Brew in Player Mods under Exploits Tab
