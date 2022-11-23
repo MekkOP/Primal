@@ -18,6 +18,7 @@
 \
 **Visuals > Structures**\
 &emsp;Turrets\
+&emsp;Containers\
 \
 **Visuals > MISC**\
 &emsp;HUD\
@@ -62,6 +63,8 @@
 &emsp;&emsp;Gamertag Spoofer\
 &emsp;&emsp;&emsp;Gamertag
 &emsp;&emsp;Auto Flak\
+&emsp;&emsp;&emsp;Prioritise Tek Armor\
+&emsp;&emsp;Auto Brew\
 \
 \
 **Exploits > Weapon Mods**\
@@ -78,7 +81,14 @@
 &emsp;&emsp;&emsp;Skin Selector\
 \
 **Exploits > Dino Mods**\
-&emsp;Coming Soon\
+&emsp;Enabled\
+&emsp;&emsp;Instant Turn\
+&emsp;&emsp;Backward Movement\
+&emsp;&emsp;Strafe Move\
+&emsp;&emsp;Force Mount\
+&emsp;&emsp;Auto Remount\
+&emsp;&emsp;Speed\
+&emsp;&emsp;&emsp;Speed Slider\
 \
 \
 **Colors > ESP**\
@@ -95,8 +105,8 @@
 &emsp;&emsp;Wild Tribe\
 &emsp;&emsp;Dino Corpse\
 &emsp;Structures\
-&emsp;&emsp;Turrets
-\
+&emsp;&emsp;Turrets\
+&emsp;&emsp;Containers\
 \
 **Colors > HUD / UI**\
 &emsp;Logo Hue\
@@ -117,33 +127,14 @@
 &emsp;&emsp;&emsp;Player Opacity\
 &emsp;&emsp;&emsp;Dino Opacity\
 &emsp;&emsp;&emsp;Structure Opacity\
+&emsp;Font Scales\
+&emsp;&emsp;Players\
+&emsp;&emsp;Dinos\
+&emsp;&emsp;Structures\
+&emsp;&emsp;Containers\
+&emsp;&emsp;Turrets\
 \
 **Paid Primal Features**
-
-# Features that are NOT in Free Primal:
-Chams\
-&emsp;All player visuals\
-&emsp;All tamed dino visuals\
-&emsp;All wild dino visuals\
-&emsp;All structure visuals\
-\
-Aimbot\
-&emsp;All Aimbot options\
-&emsp;All Silent Aim options\
-&emsp;All Triggerbot options\
-\
-Exploits\
-&emsp;Auto Loot\
-&emsp;Speed\
-&emsp;Infinite Tek Punch\
-&emsp;Auto Flak\
-\
-Colors\
-&emsp;N/A\
-\
-Settings\
-&emsp;Chams Opacity
-
 
 # Changelogs
 Changelogs (date)
