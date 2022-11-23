@@ -127,12 +127,12 @@
 &emsp;&emsp;&emsp;Player Opacity\
 &emsp;&emsp;&emsp;Dino Opacity\
 &emsp;&emsp;&emsp;Structure Opacity\
-&emsp;Font Scales\
-&emsp;&emsp;Players\
-&emsp;&emsp;Dinos\
-&emsp;&emsp;Structures\
-&emsp;&emsp;Containers\
-&emsp;&emsp;Turrets\
+&emsp;&emsp;Font Scales\
+&emsp;&emsp;&emsp;Players\
+&emsp;&emsp;&emsp;Dinos\
+&emsp;&emsp;&emsp;Structures\
+&emsp;&emsp;&emsp;Containers\
+&emsp;&emsp;&emsp;Turrets\
 \
 **Paid Primal Features**
 
