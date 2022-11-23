@@ -61,7 +61,7 @@
 &emsp;&emsp;Speed\
 &emsp;&emsp;&emsp;Speed Slider\
 &emsp;&emsp;Gamertag Spoofer\
-&emsp;&emsp;&emsp;Gamertag
+&emsp;&emsp;&emsp;Gamertag\
 &emsp;&emsp;Auto Flak\
 &emsp;&emsp;&emsp;Prioritise Tek Armor\
 &emsp;&emsp;Auto Brew\
