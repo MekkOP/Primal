@@ -195,4 +195,4 @@ Save Config: Saves the current config into "C:\Users\name\AppData\Local\Packages
 Load Config: Loads PrimalConfig.json from "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
 \
 Chams Opacity: Changeable opacity for all types of Chams\
-Font Scales: Changeable font sizes for all types of ESP\
+Font Scales: Changeable font sizes for all types of ESP
