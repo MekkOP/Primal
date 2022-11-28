@@ -124,9 +124,9 @@
 **Settings > Other**\
 &emsp;Chams\
 &emsp;&emsp;WireFrame Override\
-&emsp;&emsp;&emsp;Player Opacity\
-&emsp;&emsp;&emsp;Dino Opacity\
-&emsp;&emsp;&emsp;Structure Opacity\
+&emsp;&emsp;Player Opacity\
+&emsp;&emsp;Dino Opacity\
+&emsp;&emsp;Structure Opacity\
 &emsp;&emsp;Font Scales\
 &emsp;&emsp;&emsp;Players\
 &emsp;&emsp;&emsp;Dinos\
