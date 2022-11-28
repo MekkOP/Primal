@@ -150,12 +150,14 @@ Aimbot: Locks onto a player inside of your aim fov when a key is pressed\
 Silent Aim: Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
 Triggerbot: Automatically shoots when the crosshair is over a player\
 \
+\
 Player Visuals: Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls\
 Tamed Dino Visuals; Shows tamed dino's names, tribe names, distance and stats through walls\
 Wild Dinos Visuals: Shows wild dino's names, distance and stats through walls\
 Turret Visuals: Shows name, distance and tribe name through walls\
 Container Visuals: Shows name, distance, owner and tribe name through walls\
 HUD Visuals: Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar\
+\
 \
 Unlock Notes: Unlocks most explorer notes\
 Unlock Engrams: Unlocks engrams but you can only craft them and not be able to use the items that you crafted\
@@ -183,8 +185,10 @@ Force Mount: Force your player to mount any tribe dino within a limited range\
 Auto Remount: Automatically remounts your player onto a dino\
 Dino Speed: Makes your dino run super fast\
 \
+\
 ESP Colors: Changeable colors for all the different types of ESP\
 HUD/UI Colors: Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color\
+\
 \
 Save Config: Saves the current config into "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
 \
