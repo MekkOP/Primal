@@ -184,7 +184,7 @@ Auto Remount: Automatically remounts your player onto a dino\
 Dino Speed: Makes your dino run super fast\
 \
 ESP Colors: Changeable colors for all the different types of ESP\
-HUD/UI Colors: Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color.
+HUD/UI Colors: Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color\
 \
 Save Config: Saves the current config into "C:\Users\your pc name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\ac"\
 Load Config: Loads PrimalConfig.json from "C:\Users\your pc name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\ac"\
