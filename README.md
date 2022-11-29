@@ -146,7 +146,7 @@ Changelogs (7:30pm 11/22/22)
 - Added Font Scaling under Settings Tab
 
 # Description
-## Aimbot
+###### Aimbot
 **Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
 \
 **Silent Aim:** Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
