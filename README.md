@@ -227,9 +227,9 @@ Changelogs (7:30pm 11/22/22)
 &emsp;
 
 ## **Settings**
-**Save Config:** Saves the current config into "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
+**Save Config:** Saves the current config into "C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
 \
-**Load Config:** Loads PrimalConfig.json from "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
+**Load Config:** Loads PrimalConfig.json from "C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
 \
 **Chams Opacity:** Changeable opacity for all types of Chams\
 \
