@@ -145,7 +145,7 @@ Changelogs (7:30pm 11/22/22)
 - Added All Dino Mods under Exploits Tab
 - Added Font Scaling under Settings Tab
 
-# Description
+# Descriptions
 ## **Aimbot**
 **Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
 \
