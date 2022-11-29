@@ -190,7 +190,7 @@ Changelogs (7:30pm 11/22/22)
 **HUD/UI Colors:** Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color\
 \
 \
-**Save Config:** Saves the current config into "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
+**Save Config:** Saves the current config into "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
 \
 **Load Config:** Loads PrimalConfig.json from "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
 \
