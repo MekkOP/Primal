@@ -152,9 +152,9 @@ Changelogs (7:30pm 11/22/22)
 **Silent Aim:** Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
 \
 **Triggerbot:** Automatically shoots when the crosshair is over a player\
-\
-\
-\
+
+
+
 ## **Visuals**
 **Player Visuals:** Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls\
 \
@@ -167,9 +167,9 @@ Changelogs (7:30pm 11/22/22)
 **Container Visuals:** Shows name, distance, owner and tribe name through walls\
 \
 **HUD Visuals:** Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar\
-\
-\
-\
+
+
+
 ## **Exploits**
 **Unlock Notes:** Unlocks most explorer notes\
 \
@@ -220,16 +220,16 @@ Changelogs (7:30pm 11/22/22)
 **Auto Remount:** Automatically remounts your player onto a dino\
 \
 **Dino Speed:** Makes your dino run super fast\
-\
-\
-\
+
+
+
 ## **Colors**
 **ESP Colors:** Changeable colors for all the different types of ESP\
 \
 **HUD/UI Colors:** Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color\
-\
-\
-\
+
+
+
 ## **Settings**
 **Save Config:** Saves the current config into "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
 \
