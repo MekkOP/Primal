@@ -146,7 +146,7 @@ Changelogs (7:30pm 11/22/22)
 - Added Font Scaling under Settings Tab
 
 # Description
-###### Aimbot
+## **Aimbot**
 **Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
 \
 **Silent Aim:** Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
@@ -155,6 +155,7 @@ Changelogs (7:30pm 11/22/22)
 \
 \
 \
+## **Visuals**
 **Player Visuals:** Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls\
 \
 **Tamed Dino Visuals;** Shows tamed dino's names, tribe names, distance and stats through walls\
@@ -169,6 +170,7 @@ Changelogs (7:30pm 11/22/22)
 \
 \
 \
+## **Exploits**
 **Unlock Notes:** Unlocks most explorer notes\
 \
 **Unlock Engrams:** Unlocks engrams but you can only craft them and not be able to use the items that you crafted\
@@ -221,11 +223,14 @@ Changelogs (7:30pm 11/22/22)
 \
 \
 \
+## **Colors**
 **ESP Colors:** Changeable colors for all the different types of ESP\
+\
 **HUD/UI Colors:** Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color\
 \
 \
 \
+## **Settings**
 **Save Config:** Saves the current config into "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
 \
 **Load Config:** Loads PrimalConfig.json from "C:\Users\name\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
