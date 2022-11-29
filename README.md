@@ -135,16 +135,6 @@
 &emsp;&emsp;Turrets
 
 
-
-# Changelogs
-Based on EST time\
-Changelogs (7:30pm 11/22/22)
-
-- Added Structure ESP
-- Added Auto Brew in Player Mods under Exploits Tab
-- Added All Dino Mods under Exploits Tab
-- Added Font Scaling under Settings Tab
-
 # Descriptions
 ## **Aimbot**
 **Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
@@ -234,3 +224,12 @@ Changelogs (7:30pm 11/22/22)
 **Chams Opacity:** Changeable opacity for all types of Chams\
 \
 **Font Scales:** Changeable font sizes for all types of ESP
+
+# Changelogs
+Based on EST time\
+Changelogs (7:30pm 11/22/22)
+
+- Added Structure ESP
+- Added Auto Brew in Player Mods under Exploits Tab
+- Added All Dino Mods under Exploits Tab
+- Added Font Scaling under Settings Tab
