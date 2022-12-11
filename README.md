@@ -80,6 +80,8 @@
 &emsp;&emsp;No Shake\
 &emsp;&emsp;No Spread\
 &emsp;&emsp;No Unequip\
+&emsp;&emsp;No Overheat\
+&emsp;&emsp;Bow Mod\
 &emsp;&emsp;Insta Scope\
 &emsp;&emsp;Spyglass\
 &emsp;&emsp;Rapid Fire\
@@ -203,6 +205,10 @@
 **No Spread:** Stops shotgun bullets from spreading in different directions\
 \
 **No Unequip:** Stops items from being put away when accessing an inventory\
+\
+**No Overheat:** Tek Rifle and Tek Railgun don't overheat\
+\
+**Bow Mod:** Tek Bow instantly fire at top speed\
 \
 **Insta Scope:** Instantly scopes in, instead of having a small delay\
 \
