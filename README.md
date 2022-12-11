@@ -164,7 +164,6 @@
 **Container Visuals:** Shows name, distance, owner and tribe name through walls\
 \
 **HUD Visuals:** Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar\
-&emsp;
 
 ## **Exploits**
 **Unlock Notes:** Unlocks most explorer notes\
@@ -172,6 +171,12 @@
 **Unlock Engrams:** Unlocks engrams but you can only craft them and not be able to use the items that you crafted\
 \
 **Long Arms:** Longer range for picking up items such as item caches, and longer range for access inventories\
+\
+**Transmitter Bag:** Allows the player to drop a bag on the ground, and use it like a transmitter. The player can upload/download items, upload/download dinos but not use the bag to transfer onto a different server\
+\
+**Infinite Element:** Infinitely fills your tek suit with element, even if there is no element in the player's inventory\
+\
+**Demolish Traps:** Demolishes all bear traps in a certain area\
 \
 **Auto Loot:** Automatically picks up all item caches and takes all items from dead/sleeping bodies while holding the keybind\
 \
@@ -186,6 +191,10 @@
 **Auto Armor:** Automatically swaps equiped armor around\
 \
 **Auto Brew:** Automatically drinks med brews from your inventory\
+\
+**Character Creator:** Has a preset to make the character as small as possible, as well as being able to change the color of the characters skin to colors that are not avaliable in the Create a character menu\
+\
+**No Spawn Animation:** Removes the animation when the player spawns in, allowing them to move straight away\
 \
 **No Sway:** Removes the swaying of the scope when aiming down sights\
 \
@@ -228,6 +237,8 @@
 **Save Config:** Saves the current config into "C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
 \
 **Load Config:** Loads PrimalConfig.json from "C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
+\
+**Menu Key:** Changeable menu key\
 \
 **Chams Opacity:** Changeable opacity for all types of Chams\
 \
