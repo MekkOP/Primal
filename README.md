@@ -1,148 +1,165 @@
-# Paid Primal Client Feature List
-**Visuals > Players**\
-&emsp;Enemy Players\
-&emsp;Tribe Players\
-&emsp;Allied Players\
-&emsp;Sleeping Players\
-&emsp;Player Corpse\
-\
-**Visuals > Tamed Dinos**\
-&emsp;Enemy Dinos\
-&emsp;Tribe Dinos\
-&emsp;Allied Dinos\
-&emsp;Tamed Dino Corpse\
-\
-**Visuals > Wild Dinos**\
-&emsp;Wild Dinos\
-&emsp;Wild Dino Corpse\
-\
-**Visuals > Structures**\
-&emsp;Turrets\
-&emsp;Containers\
-\
-**Visuals > MISC**\
-&emsp;HUD\
-\
-\
-**Aimbot > Aimbot**\
-&emsp;Enabled\
-&emsp;&emsp;Lock Mode\
-&emsp;&emsp;Vis Check\
-&emsp;&emsp;Target Sleepers\
-&emsp;&emsp;Target Tribe\
-&emsp;&emsp;Aim Bone
-\
-\
-**Aimbot > Silent Aim**\
-&emsp;Enabled\
-&emsp;&emsp;Use Keybind\
-&emsp;&emsp;Target Sleepers\
-&emsp;&emsp;Use FOV\
-&emsp;&emsp;Target Tribe\
-&emsp;&emsp;Aim Bone\
-\
-**Aimbot > Triggerbot**\
-&emsp;Enabled\
-&emsp;&emsp;Use Keybind\
-&emsp;&emsp;Target Tribe\
-&emsp;&emsp;Sleepers\
-&emsp;&emsp;Rapid\
-&emsp;&emsp;Ignore Shield\
-\
-\
-**Exploits > Player Mods**\
-&emsp;Enabled\
-&emsp;&emsp;Unlock Note\
-&emsp;&emsp;Unlock Engrams\
-&emsp;&emsp;Long Arms\
-&emsp;&emsp;Transmitter Bag\
-&emsp;&emsp;Infinite Element\
-&emsp;&emsp;Demolish Traps\
-&emsp;&emsp;Auto Loot\
-&emsp;&emsp;Air Stuck\
-&emsp;&emsp;Ghost Mode\
-&emsp;&emsp;Speed\
-&emsp;&emsp;&emsp;Speed Slider\
-&emsp;&emsp;Gamertag Spoofer\
-&emsp;&emsp;&emsp;Gamertag\
-&emsp;&emsp;Auto Flak\
-&emsp;&emsp;&emsp;Prioritise Tek Armor\
-&emsp;&emsp;Auto Brew\
-&emsp;&emsp;Char Creator\
-&emsp;&emsp;&emsp;Small Bones\
-&emsp;&emsp;&emsp;Override Color\
-&emsp;&emsp;No Spawn Animation\
-\
-\
-**Exploits > Weapon Mods**\
-&emsp;Enabled\
-&emsp;&emsp;No Sway\
-&emsp;&emsp;No Shake\
-&emsp;&emsp;No Spread\
-&emsp;&emsp;No Unequip\
-&emsp;&emsp;No Overheat\
-&emsp;&emsp;Bow Mod\
-&emsp;&emsp;Insta Scope\
-&emsp;&emsp;Spyglass\
-&emsp;&emsp;Rapid Fire\
-&emsp;&emsp;Infinite Tek Punch\
-&emsp;&emsp;Clientside Weapon Skin\
-&emsp;&emsp;&emsp;Skin Selector\
-\
-**Exploits > Dino Mods**\
-&emsp;Enabled\
-&emsp;&emsp;Instant Turn\
-&emsp;&emsp;Backward Movement\
-&emsp;&emsp;Strafe Move\
-&emsp;&emsp;Force Mount\
-&emsp;&emsp;Auto Remount\
-&emsp;&emsp;Speed\
-&emsp;&emsp;&emsp;Speed Slider\
-\
-\
-**Colors > ESP**\
-&emsp;Players\
-&emsp;&emsp;Enemy Players\
-&emsp;&emsp;Tribe Players\
-&emsp;&emsp;Allied Players\
-&emsp;&emsp;Sleeping Players\
-&emsp;&emsp;Player Corpse\
-&emsp;Dinos\
-&emsp;&emsp;Enemy Tribe\
-&emsp;&emsp;Tribe Tribe\
-&emsp;&emsp;Allied Tribe\
-&emsp;&emsp;Wild Tribe\
-&emsp;&emsp;Dino Corpse\
-&emsp;Structures\
-&emsp;&emsp;Turrets\
-&emsp;&emsp;Containers\
-\
-**Colors > HUD / UI**\
-&emsp;Logo Hue\
-&emsp;Base Color\
-&emsp;Highlight Color\
-&emsp;Text Color #1\
-&emsp;Text Color #2\
-&emsp;Crosshair\
-\
-\
-**Settings > Config**\
-&emsp;Save\
-&emsp;Load\
-&emsp;Menu Key\
-\
-**Settings > Other**\
-&emsp;Chams\
-&emsp;&emsp;WireFrame Override\
-&emsp;&emsp;Player Opacity\
-&emsp;&emsp;Dino Opacity\
-&emsp;&emsp;Structure Opacity\
-&emsp;Font Scales\
-&emsp;&emsp;Players\
-&emsp;&emsp;Dinos\
-&emsp;&emsp;Structures\
-&emsp;&emsp;Containers\
+# Paid Primal Features
+
+<details>
+<summary>Visuals > Players</summary>
+&emsp;&emsp;Enemy Players
+<br>&emsp;&emsp;Tribe Players
+<br>&emsp;&emsp;Allied Players
+<br>&emsp;&emsp;Sleeping Players
+<br>&emsp;&emsp;Player Corpse
+</details>
+
+<details>
+<summary>Visuals > Dinos</summary>
+&emsp;&emsp;Enemy Dinos
+<br>&emsp;&emsp;Tribe Dinos
+<br>&emsp;&emsp;Allied Dinos
+<br>&emsp;&emsp;Tamed Dino Corpse
+</details>
+
+<details>
+<summary>Visuals > Wild Dinos</summary>
+&emsp;&emsp;Wild Dinos
+<br>&emsp;&emsp;Wild Dino Corpse
+</details>
+
+<details>
+<summary>Visuals > Structures</summary>
 &emsp;&emsp;Turrets
+<br>&emsp;&emsp;Structures
+</details>
+
+<details>
+<summary>Visuals > Misc</summary>
+&emsp;&emsp;HUD
+</details>
+
+<br>
+
+<details>
+<summary>Aimbot > Aimbot</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Visible Check
+<br>&emsp;&emsp;Target Sleepers
+<br>&emsp;&emsp;Target Tribe
+<br>&emsp;&emsp;Aim Bone
+<br>&emsp;&emsp;&emsp;Head, Chest, Hands, Legs, Feet, Random
+</details>
+
+<details>
+<summary>Aimbot > Silent Aim</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Use Keybind
+<br>&emsp;&emsp;Target Sleepers
+<br>&emsp;&emsp;Use FOV
+<br>&emsp;&emsp;Target Tribe
+<br>&emsp;&emsp;Aim Bone
+<br>&emsp;&emsp;&emsp;Head, Chest, Hands, Legs, Feet, Random
+</details>
+
+<details>
+<summary>Aimbot > Triggerbot</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Use Keybind
+<br>&emsp;&emsp;Target Sleepers
+<br>&emsp;&emsp;Target Tribe
+<br>&emsp;&emsp;Rapid
+<br>&emsp;&emsp;Ignore Shield
+</details>
+
+<br>
+
+<details>
+<summary>Exploits > Player Mods</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Unlock Note
+<br>&emsp;&emsp;Unlock Engrams
+<br>&emsp;&emsp;Long Arms
+<br>&emsp;&emsp;Transmitter Bag
+<br>&emsp;&emsp;Infinite Element
+<br>&emsp;&emsp;Demolish Traps
+<br>&emsp;&emsp;Auto Loot
+<br>&emsp;&emsp;Air Stuck
+<br>&emsp;&emsp;Ghost Mode
+<br>&emsp;&emsp;Speed
+<br>&emsp;&emsp;Gamertag Spoofer
+<br>&emsp;&emsp;Auto Flak
+<br>&emsp;&emsp;Auto Med Brew
+<br>&emsp;&emsp;Character Creator
+<br>&emsp;&emsp;&emsp;Small Bone Preset
+<br>&emsp;&emsp;&emsp;Override Color
+<br>&emsp;&emsp;No Spawn Animation
+</details>
+
+<details>
+<summary>Exploits > Weapon mods</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;No Sway
+<br>&emsp;&emsp;No Shake
+<br>&emsp;&emsp;No Spread
+<br>&emsp;&emsp;No Unequip
+<br>&emsp;&emsp;No Overheat
+<br>&emsp;&emsp;Bow Mod
+<br>&emsp;&emsp;Instant Scope
+<br>&emsp;&emsp;Spyglass
+<br>&emsp;&emsp;Rapidfire
+<br>&emsp;&emsp;Tek Punch
+<br>&emsp;&emsp;Weapon Skins
+</details>
+
+<details>
+<summary>Exploits > Dinos Mods</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Instant Turn
+<br>&emsp;&emsp;Backward Movement
+<br>&emsp;&emsp;Strafe move
+<br>&emsp;&emsp;Forcemount
+<br>&emsp;&emsp;Auto Remount
+<br>&emsp;&emsp;Speed
+</details>
+
+<br>
+
+<details>
+<summary>Colors > ESP</summary>
+&emsp;&emsp;Players
+<br>&emsp;&emsp;Dinos
+<br>&emsp;&emsp;Structures
+</details>
+
+<details>
+<summary>Colors > HUD/UI</summary>
+&emsp;&emsp;Logo Hue
+<br>&emsp;&emsp;Base Color
+<br>&emsp;&emsp;Highlight Color
+<br>&emsp;&emsp;Text Color #1
+<br>&emsp;&emsp;Text Color #2
+<br>&emsp;&emsp;Crosshair/Aim FOV
+</details>
+
+<br>
+
+<details>
+<summary>Settings > Config</summary>
+&emsp;&emsp;Save
+<br>&emsp;&emsp;Load
+<br>&emsp;&emsp;Menu Key
+</details>
+
+<details>
+<summary> Settings > Other</summary>
+&emsp;&emsp;Chams
+<br>&emsp;&emsp;&emsp;Wireframe Override
+<br>&emsp;&emsp;&emsp;Player Opacity
+<br>&emsp;&emsp;&emsp;Dino Opacity
+<br>&emsp;&emsp;&emsp;Structure Opacity
+<br>&emsp;&emsp;Font Scale
+<br>&emsp;&emsp;&emsp;Players
+<br>&emsp;&emsp;&emsp;Dinos
+<br>&emsp;&emsp;&emsp;Structures
+<br>&emsp;&emsp;&emsp;Containers
+<br>&emsp;&emsp;&emsp;Turrets
+</details>
 
 
 # Descriptions
