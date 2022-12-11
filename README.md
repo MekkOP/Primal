@@ -55,6 +55,9 @@
 &emsp;&emsp;Unlock Note\
 &emsp;&emsp;Unlock Engrams\
 &emsp;&emsp;Long Arms\
+&emsp;&emsp;Transmitter Bag\
+&emsp;&emsp;Infinite Element\
+&emsp;&emsp;Demolish Traps\
 &emsp;&emsp;Auto Loot\
 &emsp;&emsp;Air Stuck\
 &emsp;&emsp;Ghost Mode\
@@ -65,6 +68,10 @@
 &emsp;&emsp;Auto Flak\
 &emsp;&emsp;&emsp;Prioritise Tek Armor\
 &emsp;&emsp;Auto Brew\
+&emsp;&emsp;Char Creator\
+&emsp;&emsp;&emsp;Small Bones\
+&emsp;&emsp;&emsp;Override Color\
+&emsp;&emsp;No Spawn Animation\
 \
 \
 **Exploits > Weapon Mods**\
@@ -120,6 +127,7 @@
 **Settings > Config**\
 &emsp;Save\
 &emsp;Load\
+&emsp;Menu Key\
 \
 **Settings > Other**\
 &emsp;Chams\
