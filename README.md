@@ -150,133 +150,133 @@
 <summary> Settings > Other</summary>
 &emsp;&emsp;Chams
 <br>&emsp;&emsp;&emsp;Wireframe Override
-<br>&emsp;&emsp;&emsp;Player Opacity
-<br>&emsp;&emsp;&emsp;Dino Opacity
-<br>&emsp;&emsp;&emsp;Structure Opacity
+<br>&emsp;&emsp;&emsp;Opacity Sliders
 <br>&emsp;&emsp;Font Scale
-<br>&emsp;&emsp;&emsp;Players
-<br>&emsp;&emsp;&emsp;Dinos
-<br>&emsp;&emsp;&emsp;Structures
-<br>&emsp;&emsp;&emsp;Containers
-<br>&emsp;&emsp;&emsp;Turrets
+<br>&emsp;&emsp;&emsp;Font Scale Sliders
 </details>
 
-
 # Descriptions
-## **Aimbot**
-**Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
-\
-**Silent Aim:** Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
-\
-**Triggerbot:** Automatically shoots when the crosshair is over a player\
-&emsp;
+<details>
+<summary>Aimbot</summary>
+<strong>Aimbot:</strong> Locks onto a player inside of your aim fov when a key is pressed
+  
+<br><strong>Silent Aim:</strong> Automatically hits players inside of your aim fov, even if you aren't looking directly at them
+  
+<br><strong>Triggerbot:</strong> Automatically shoots when the crosshair is over a player
+</details>
 
-## **Visuals**
-**Player Visuals:** Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls\
-\
-**Tamed Dino Visuals;** Shows tamed dino's names, tribe names, distance and stats through walls\
-\
-**Wild Dinos Visuals:** Shows wild dino's names, distance and stats through walls\
-\
-**Turret Visuals:** Shows name, distance and tribe name through walls\
-\
-**Container Visuals:** Shows name, distance, owner and tribe name through walls\
-\
-**HUD Visuals:** Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar\
+<details>
+<summary>Visuals (ESP)</summary>
+<strong>Player Visuals:</strong> Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls
+  
+<br><strong>Tamed Dino Visuals;</strong> Shows tamed dino's names, tribe names, distance and stats through walls
+  
+<br><strong>Wild Dinos Visuals:</strong> Shows wild dino's names, distance and stats through walls
+  
+<br><strong>Turret Visuals:</strong> Shows name, distance and tribe name through walls
+  
+<br><strong>Container Visuals:</strong> Shows name, distance, owner and tribe name through walls
+  
+<br><strong>HUD Visuals:</strong> Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar
+</details>
 
-## **Exploits**
-**Unlock Notes:** Unlocks most explorer notes\
-\
-**Unlock Engrams:** Unlocks engrams but you can only craft them and not be able to use the items that you crafted\
-\
-**Long Arms:** Longer range for picking up items such as item caches, and longer range for access inventories\
-\
-**Transmitter Bag:** Allows the player to drop a bag on the ground, and use it like a transmitter. The player can upload/download items, upload/download dinos but not use the bag to transfer onto a different server\
-\
-**Infinite Element:** Infinitely fills your tek suit with element, even if there is no element in the player's inventory\
-\
-**Demolish Traps:** Demolishes all bear traps in a certain area\
-\
-**Auto Loot:** Automatically picks up all item caches and takes all items from dead/sleeping bodies while holding the keybind\
-\
-**Air Stuck:** Freezes your character movement and/or your mounted dino movement\
-\
-**Ghost Mode:** Allows a player to fly through walls and scout bases (Client Sided Only)\
-\
-**Player Speed:** Makes your character run super fast\
-\
-**Gamertag Spoofer:** Changes your gamertag (Must specify what you want the gamertag to be on the menu or it won't work)\
-\
-**Auto Armor:** Automatically swaps equiped armor around\
-\
-**Auto Brew:** Automatically drinks med brews from your inventory\
-\
-**Character Creator:** Has a preset to make the character as small as possible, as well as being able to change the color of the characters skin to colors that are not avaliable in the Create a character menu\
-\
-**No Spawn Animation:** Removes the animation when the player spawns in, allowing them to move straight away\
-\
-**No Sway:** Removes the swaying of the scope when aiming down sights\
-\
-**No Shake:** Removes the recoil of any gun\
-\
-**No Spread:** Stops shotgun bullets from spreading in different directions\
-\
-**No Unequip:** Stops items from being put away when accessing an inventory\
-\
-**No Overheat:** Tek Rifle and Tek Railgun don't overheat\
-\
-**Bow Mod:** Tek Bow instantly fire at top speed\
-\
-**Insta Scope:** Instantly scopes in, instead of having a small delay\
-\
-**Spyglass:** Weapons act as spyglasses\
-\
-**Rapid Fire:** Weapon fires bullets extremely fast\
-\
-**Infinite Tek Punch:** When pressing a keybind, it makes the character tek punch no matter what the player is holding\
-\
-**Client Skins:** Client sided skins for weapons (Like gun camos in Call Of Duty but client side)\
-\
-**Instant Turn:** Instantly turns the dino that you are riding\
-\
-**Backwards Movement:** Allows any dino to move backwards at a sprinting speed\
-\
-**Strafe Move:** Allows any dino the move left and right like a Griffin can\
-\
-**Force Mount:** Force your player to mount any tribe dino within a limited range\
-\
-**Auto Remount:** Automatically remounts your player onto a dino\
-\
-**Dino Speed:** Makes your dino run super fast\
-&emsp;
+<details>
+<summary>Exploits</summary>
+  
+<strong>Unlock Notes:</strong> Unlocks most explorer notes
 
-## **Colors**
-**ESP Colors:** Changeable colors for all the different types of ESP\
-\
-**HUD/UI Colors:** Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color\
-&emsp;
+<strong>Unlock Engrams:</strong> Unlocks engrams but you can only craft them and not be able to use the items that you crafted
 
-## **Settings**
-**Save Config:** Saves the current config into "C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json"\
-\
-**Load Config:** Loads PrimalConfig.json from "C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC"\
-\
-**Menu Key:** Changeable menu key\
-\
-**Chams Opacity:** Changeable opacity for all types of Chams\
-\
-**Font Scales:** Changeable font sizes for all types of ESP
+<strong>Long Arms:</strong> Longer range for picking up items such as item caches, and longer range for access inventories
+
+<strong>Transmitter Bag:</strong> Allows the player to drop a bag on the ground, and use it like a transmitter. The player can upload/download items, upload/download dinos but not use the bag to transfer onto a different server
+
+<strong>Infinite Element:</strong> Infinitely fills your tek suit with element, even if there is no element in the player&#39;s inventory
+
+<strong>Demolish Traps:</strong> Demolishes all bear traps in a certain area
+
+<strong>Auto Loot:</strong> Automatically picks up all item caches and takes all items from dead/sleeping bodies while holding the keybind
+
+<strong>Air Stuck:</strong> Freezes your character movement and/or your mounted dino movement
+
+<strong>Ghost Mode:</strong> Allows a player to fly through walls and scout bases (Client Sided Only)
+
+<strong>Player Speed:</strong> Makes your character run super fast
+
+<strong>Gamertag Spoofer:</strong> Changes your gamertag (Must specify what you want the gamertag to be on the menu or it won't work)
+
+<strong>Auto Armor:</strong> Automatically swaps equiped armor around
+
+<strong>Auto Brew:</strong> Automatically drinks med brews from your inventory
+
+<strong>Character Creator:</strong> Has a preset to make the character as small as possible, as well as being able to change the color of the characters skin to colors that are not avaliable in the Create a character menu
+
+<strong>No Spawn Animation:</strong> Removes the animation when the player spawns in, allowing them to move straight away
+
+<strong>No Sway:</strong> Removes the swaying of the scope when aiming down sights
+
+<strong>No Shake:</strong> Removes the recoil of any gun
+
+<strong>No Spread:</strong> Stops shotgun bullets from spreading in different directions
+
+<strong>No Unequip:</strong> Stops items from being put away when accessing an inventory
+
+<strong>No Overheat:</strong> Tek Rifle and Tek Railgun don&#39;t overheat
+
+<strong>Bow Mod:</strong> Tek Bow instantly fire at top speed
+
+<strong>Insta Scope:</strong> Instantly scopes in, instead of having a small delay
+
+<strong>Spyglass:</strong> Weapons act as spyglasses
+
+<strong>Rapid Fire:</strong> Weapon fires bullets extremely fast
+
+<strong>Infinite Tek Punch:</strong> When pressing a keybind, it makes the character tek punch no matter what the player is holding
+
+<strong>Client Skins:</strong> Client sided skins for weapons (Like gun camos in Call Of Duty but client side)
+
+<strong>Instant Turn:</strong> Instantly turns the dino that you are riding
+
+<strong>Backwards Movement:</strong> Allows any dino to move backwards at a sprinting speed
+
+<strong>Strafe Move:</strong> Allows any dino the move left and right like a Griffin or Tapejara can
+
+<strong>Force Mount:</strong> Force your player to mount any tribe dino within a limited range
+
+<strong>Auto Remount:</strong> Automatically remounts your player onto a dino
+
+<strong>Dino Speed:</strong> Makes your dino run super fast
+</details>
+
+<details>
+<summary>Colors</summary>
+<strong>ESP Colors:</strong> Changeable colors for all the different types of ESP
+
+<br><strong>HUD/UI Colors:</strong> Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color
+</details>
+
+<details>
+<summary>Settings</summary>
+<strong>Save:</strong> Saves the current config into &quot;C:\Users\usename\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json&quot;
+<br>
+<br><strong>Load:</strong> Loads PrimalConfig.json from &quot;C:\Users\username\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC&quot;
+<br>
+<br><strong>Menu Key:</strong> Changeable menu key
+<br>
+<br><strong>Chams Opacity:</strong> Changeable opacity for all types of Chams
+<br>
+<br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
+</details>
 
 # Changelogs
-Based on EST time\
 
-**Changelogs (7:30pm 11/22/22)**
+<br><strong>Changelogs (7:30pm 11/22/22 EST)</strong>
  - Added Structure ESP
  - Added Auto Brew in Player Mods under Exploits Tab
  - Added All Dino Mods under Exploits Tab
  - Added Font Scaling under Settings Tab
 
-**Changelogs (4:00am 12/5/22)**
+<br><strong>Changelogs (4:00am 12/5/22 EST)</strong>
  - All settings should now save
  - Stability/Crash fixes
  - Turrets No Longer Count As Containers (was not intended)
