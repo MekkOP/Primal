@@ -1,8 +1,4 @@
-<!DOCTYPE html>
 <html>
-
-<h1>Primal Feature List</h1>
-  
 <body>
 <details>
 <summary>Visuals > Players</summary>
