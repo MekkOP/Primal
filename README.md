@@ -271,25 +271,25 @@
 <br>
 <h1 id="changelogs">Changelogs</h1>
 <strong>Changelogs (7:30pm 11/22/22 EST)</strong>
- - Added Structure ESP
- - Added Auto Brew in Player Mods under Exploits Tab
- - Added All Dino Mods under Exploits Tab
- - Added Font Scaling under Settings Tab
+<br> - Added Structure ESP
+<br> - Added Auto Brew in Player Mods under Exploits Tab
+<br> - Added All Dino Mods under Exploits Tab
+<br> - Added Font Scaling under Settings Tab
 <br>
 <br><strong>Changelogs (4:00am 12/5/22 EST)</strong>
- - All settings should now save
- - Stability/Crash fixes
- - Turrets No Longer Count As Containers (was not intended)
- - Auto Brew Customizable Threshold & Brew Interval
- - Changeable + Savable Menu Key
- - No Overheat for tek rail gun and tek rifle
- - Trans bag toggle + better trans bag (now allows you to upload items)
- - Character Creator (custom character color + small bone preset)
- - No Spawn Animation
- - Infinite Element
- - Demo Nearby Enemy Traps (limited radius)
- - Bow Mod (click to fire - max speed arrows)
- - Armor Icons For Players
+<br> - All settings should now save
+<br> - Stability/Crash fixes
+<br> - Turrets No Longer Count As Containers (was not intended)
+<br> - Auto Brew Customizable Threshold & Brew Interval
+<br> - Changeable + Savable Menu Key
+<br> - No Overheat for tek rail gun and tek rifle
+<br> - Trans bag toggle + better trans bag (now allows you to upload items)
+<br> - Character Creator (custom character color + small bone preset)
+<br> - No Spawn Animation
+<br> - Infinite Element
+<br> - Demo Nearby Enemy Traps (limited radius)
+<br> - Bow Mod (click to fire - max speed arrows)
+<br> - Armor Icons For Players
 <br>
 <br><a href="primalcheats.pro">Official Primal Cheats Website</a>
 <br>
