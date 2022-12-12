@@ -1,18 +1,20 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <title>Primal</title>
+  <title>Cool Website</title>
   <style>
     body {
-      background-color: #333;
+      background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/5889.jpg);
+      background-size: cover;
       color: #fff;
-      font-family: comic;
+      font-family: sans-serif;
       margin: 0;
       padding: 0;
     }
     .transparent-rectangle {
-      background-color: rgba(255,255,255,0.75);
-      width: 60%;
-      height: 400px;
+      background-color: rgba(255,255,255,0);
+      width: 40%;
+      height: 1200px;
       margin: 0 auto;
       text-align: center;
       padding: 20px;
@@ -20,7 +22,8 @@
   </style>
 </head>
 <body>
-Made by Mekk#0001
+  <div class="transparent-rectangle">
+    Made by Mekk#0001
 <form action="https://primalcheats.pro">
 <input type="submit" value="Primal Cheats Official Website"/>
 </form>
@@ -352,5 +355,7 @@ Made by Mekk#0001
 <br> - Demo Nearby Enemy Traps (limited radius)
 <br> - Bow Mod (click to fire - max speed arrows)
 <br> - Armor Icons For Players
-  </body>
+
+  </div>
+</body>
 </html>
