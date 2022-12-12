@@ -16,6 +16,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Sleeping Players
 <br>&emsp;&emsp;Player Corpse
 <br>
+<br>
 </details>
 
 <details>
@@ -25,12 +26,14 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Allied Dinos
 <br>&emsp;&emsp;Tamed Dino Corpse
 <br>
+<br>
 </details>
 
 <details>
 <summary>Visuals > Wild Dinos</summary>
 &emsp;&emsp;Wild Dinos
 <br>&emsp;&emsp;Wild Dino Corpse
+<br>
 <br>
 </details>
 
@@ -39,11 +42,13 @@ Made by Mekk#0001
 &emsp;&emsp;Turrets
 <br>&emsp;&emsp;Structures
 <br>
+<br>
 </details>
 
 <details>
 <summary>Visuals > Misc</summary>
 &emsp;&emsp;HUD
+<br>
 <br>
 </details>
 
@@ -58,6 +63,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Aim Bone
 <br>&emsp;&emsp;&emsp;Head, Chest, Hands, Legs, Feet, Random
 <br>
+<br>
 </details>
 
 <details>
@@ -70,6 +76,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Aim Bone
 <br>&emsp;&emsp;&emsp;Head, Chest, Hands, Legs, Feet, Random
 <br>
+<br>
 </details>
 
 <details>
@@ -80,6 +87,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Target Tribe
 <br>&emsp;&emsp;Rapid
 <br>&emsp;&emsp;Ignore Shield
+<br>
 <br>
 </details>
 
@@ -106,6 +114,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;&emsp;Override Color
 <br>&emsp;&emsp;No Spawn Animation
 <br>
+<br>
 </details>
 
 <details>
@@ -123,6 +132,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Tek Punch
 <br>&emsp;&emsp;Weapon Skins
 <br>
+<br>
 </details>
 
 <details>
@@ -135,6 +145,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Auto Remount
 <br>&emsp;&emsp;Speed
 <br>
+<br>
 </details>
 
 <br>
@@ -144,6 +155,7 @@ Made by Mekk#0001
 &emsp;&emsp;Players
 <br>&emsp;&emsp;Dinos
 <br>&emsp;&emsp;Structures
+<br>
 <br>
 </details>
 
@@ -155,7 +167,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Text Color #1
 <br>&emsp;&emsp;Text Color #2
 <br>&emsp;&emsp;Crosshair/Aim FOV
-<br>
+<br>\<br>
 </details>
 
 <br>
@@ -165,6 +177,7 @@ Made by Mekk#0001
 &emsp;&emsp;Save
 <br>&emsp;&emsp;Load
 <br>&emsp;&emsp;Menu Key
+<br>
 <br>
 </details>
 
@@ -176,6 +189,7 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Font Scale
 <br>&emsp;&emsp;&emsp;Font Scale Sliders
 <br>
+<br>
 </details>
 <br>
 <h1 id="description">Description</h1>
@@ -186,6 +200,7 @@ Made by Mekk#0001
 <br><strong>Silent Aim:</strong> Automatically hits players inside of your aim fov, even if you aren't looking directly at them
   
 <br><strong>Triggerbot:</strong> Automatically shoots when the crosshair is over a player
+<br>
 <br>
 </details>
 
@@ -202,6 +217,7 @@ Made by Mekk#0001
 <br><strong>Container Visuals:</strong> Shows name, distance, owner and tribe name through walls
   
 <br><strong>HUD Visuals:</strong> Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar
+<br>
 <br>
 </details>
 
@@ -272,6 +288,7 @@ Made by Mekk#0001
 
 <br><strong>Dino Speed:</strong> Makes your dino run super fast
 <br>
+<br>
 </details>
 
 <details>
@@ -279,6 +296,7 @@ Made by Mekk#0001
 <strong>ESP Colors:</strong> Changeable colors for all the different types of ESP
 
 <br><strong>HUD/UI Colors:</strong> Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color
+<br>
 <br>
 </details>
 
@@ -293,6 +311,7 @@ Made by Mekk#0001
 <br><strong>Chams Opacity:</strong> Changeable opacity for all types of Chams
 <br>
 <br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
+<br>
 <br>
 </details>
 <br>
