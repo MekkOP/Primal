@@ -5,8 +5,8 @@
       .box {
       background: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png") fixed;
       width: 160%;
-      margin-left:50%;
-      margin-top: 50%;
+      margin-left:0%;
+      margin-top: 0%;
       }
       .text {
       background-color: cadetblue;
