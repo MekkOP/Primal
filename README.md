@@ -1,6 +1,23 @@
 <html>
 <head>
   <title>Primal</title>
+  <style>
+    body {
+      background-color: #333;
+      color: #fff;
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    .transparent-rectangle {
+      background-color: rgba(255,255,255,0.75);
+      width: 60%;
+      height: 400px;
+      margin: 0 auto;
+      text-align: center;
+      padding: 20px;
+    }
+  </style>
 </head>
 <body>
 Made by Mekk#0001
