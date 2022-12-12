@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+
+<h1>Primal Feature List</h1>
+  
+<body>
 <details>
 <summary>Visuals > Players</summary>
 &emsp;&emsp;Enemy Players
@@ -288,3 +294,7 @@
  - Demo Nearby Enemy Traps (limited radius)
  - Bow Mod (click to fire - max speed arrows)
  - Armor Icons For Players
+
+<br><strong>Made my Mekk#0001</strong>
+</body>
+</html>
