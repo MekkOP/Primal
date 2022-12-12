@@ -268,7 +268,6 @@
 <br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
 </details>
 <br>
-<br>
 <t1>Changelogs</t1>
 <br>
 <br><strong>Changelogs (7:30pm 11/22/22 EST)</strong>
@@ -276,7 +275,6 @@
  - Added Auto Brew in Player Mods under Exploits Tab
  - Added All Dino Mods under Exploits Tab
  - Added Font Scaling under Settings Tab
-<br>
 <br>
 <br><strong>Changelogs (4:00am 12/5/22 EST)</strong>
  - All settings should now save
