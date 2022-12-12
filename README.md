@@ -355,8 +355,10 @@
 <br> - Infinite Element
 <br> - Demo Nearby Enemy Traps (limited radius)
 <br> - Bow Mod (click to fire - max speed arrows)
-<br> - Armor Icons For Players
-
+<br> - Armor Icons For Players\
+<br>
+<br>
+<br>
   </div>
 </body>
 </html>
