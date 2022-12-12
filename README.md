@@ -10,7 +10,7 @@
 <link rel = "icon" href = "https://github.com/MekkOP/Primal/blob/main/assets/img/favicons/favicon.ico" type = "image/x-icon">
 </head>
 <body>
-Made by Mekk#0001
+<br>Made by Mekk#0001
 <form action="https://primalcheats.pro">
 <input type="submit" value="Primal Cheats Official Website"/>
 </form>
