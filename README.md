@@ -1,6 +1,28 @@
+<!DOCTYPE html>
 <html>
-<body>
-<h1 id="features">Features</h1>
+  <head>
+    <style>
+      .box {
+      background: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png") fixed;
+      width: 60%;
+      margin-left:20%;
+      margin-top: 10%;
+      }
+      .text {
+      background-color: cadetblue;
+      border: 1px solid black;
+      opacity: 0.7;
+      font-weight: bolder;
+      color: #000000;
+      font-size: 60px;
+      text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <div class="text">
+        <h1 id="features">Features</h1>
 <details>
 <summary>Visuals > Players</summary>
 &emsp;&emsp;Enemy Players
@@ -295,5 +317,7 @@
 <input type="submit" value="Primal Cheats Official Website"/>
 </form>
 <br><strong>Made by Mekk#0001</strong>
-</body>
+      </div>
+    </div>
+  </body>
 </html>
