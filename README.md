@@ -293,9 +293,5 @@ Made by Mekk#0001
 <br> - Demo Nearby Enemy Traps (limited radius)
 <br> - Bow Mod (click to fire - max speed arrows)
 <br> - Armor Icons For Players
-<br>
-<br><form action="https://primalcheats.pro">
-<input type="submit" value="Primal Cheats Official Website"/>
-</form>
   </body>
 </html>
