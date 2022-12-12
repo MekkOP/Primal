@@ -7,6 +7,9 @@ Made by Mekk#0001
 <form action="https://primalcheats.pro">
 <input type="submit" value="Primal Cheats Official Website"/>
 </form>
+<form action="https://discord.gg/primalcheats">
+<input type="submit" value="Primal Cheats Official Discord"/>
+</form>
 <h1 id="features">Features</h1>
 <details>
 <summary>Visuals > Players</summary>
