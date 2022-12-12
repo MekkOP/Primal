@@ -154,8 +154,9 @@
 <br>&emsp;&emsp;Font Scale
 <br>&emsp;&emsp;&emsp;Font Scale Sliders
 </details>
-
-# Descriptions
+<br>
+<t1>Descriptions</t1>
+<br>
 <details>
 <summary>Aimbot</summary>
 <strong>Aimbot:</strong> Locks onto a player inside of your aim fov when a key is pressed
