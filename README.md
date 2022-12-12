@@ -4,17 +4,17 @@
     <style>
       .box {
       background: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png") fixed;
-      width: 60%;
-      margin-left:20%;
+      width: 10%;
+      margin-left:10%;
       margin-top: 10%;
       }
       .text {
       background-color: cadetblue;
-      border: 1px solid black;
+      border: 3px solid black;
       opacity: 0.7;
       font-weight: bolder;
       color: #000000;
-      font-size: 60px;
+      font-size: 20px;
       text-align: center;
       }
     </style>
