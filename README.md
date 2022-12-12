@@ -6,6 +6,7 @@
     body {
       background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/5889.jpg);
       background-size: cover;
+      background-attachment: fixed;
       color: #fff;
       font-family: sans-serif;
       margin: 0;
