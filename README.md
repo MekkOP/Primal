@@ -271,7 +271,6 @@
 </details>
 <br>
 <h1 id="description">Description</h1>
-<br>
 <br><strong>Changelogs (7:30pm 11/22/22 EST)</strong>
  - Added Structure ESP
  - Added Auto Brew in Player Mods under Exploits Tab
