@@ -1,4 +1,11 @@
 <html>
+<title>Primal Cheats</title>
+<meta content="Primal Features" property="og:title" />
+<meta content="Features that Primal's Ark Microsoft Store Cheat has" property="og:description" />
+<meta content="https://primalcheats.pro" property="og:url" />
+<meta content="https://media.discordapp.net/attachments/1051295825378148445/1051762023966449744/IMG_2187.jpg?width=96&height=96" property="og:image" />
+<meta content="#43B581" data-react-helmet="true" name="theme-color" />
+<meta name="twitter:card" content="summary_large_image">
 <head>
 <link rel = "icon" href = "https://github.com/MekkOP/Primal/blob/main/assets/img/favicons/favicon.ico" type = "image/x-icon">
 </head>
