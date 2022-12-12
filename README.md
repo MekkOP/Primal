@@ -291,7 +291,9 @@
 <br> - Bow Mod (click to fire - max speed arrows)
 <br> - Armor Icons For Players
 <br>
-<br><a href="primalcheats.pro">Official Primal Cheats Website</a>
+<br><form action="https://primalcheats.pro">
+<input type="submit" value="Primal Cheats Official Website"/>
+</form>
 <br>
 <br><strong>Made my Mekk#0001</strong>
 </body>
