@@ -1,6 +1,6 @@
 <html>
 <body>
-  <title>Features</title>
+<font size="+3">Features</font>
 <details>
 <summary>Visuals > Players</summary>
 &emsp;&emsp;Enemy Players
@@ -157,7 +157,7 @@
 </details>
 <br>
 </body>
-<title>Descriptions</title>
+<font size="+3">Descriptions</font>
 <body>
 <br>
 <details>
@@ -273,7 +273,7 @@
 </details>
 <br>
 </body>
-<title>Changelogs</title>
+<font size="+3">Changelogs</font>
 <body>
 <br>
 <br><strong>Changelogs (7:30pm 11/22/22 EST)</strong>
