@@ -290,7 +290,7 @@
  - Demo Nearby Enemy Traps (limited radius)
  - Bow Mod (click to fire - max speed arrows)
  - Armor Icons For Players
-
+<br><a href="primalcheats.pro">Official Primal Cheats Website</a>
 <br><strong>Made my Mekk#0001</strong>
 </body>
 </html>
