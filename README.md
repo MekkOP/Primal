@@ -3,6 +3,9 @@ Made by Mekk#0001
   <head>
   </head>
   <body>
+<br><form action="https://primalcheats.pro">
+<input type="submit" value="Primal Cheats Official Website"/>
+</form>
 <h1 id="features">Features</h1>
 <details>
 <summary>Visuals > Players</summary>
