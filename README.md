@@ -191,69 +191,69 @@ Made by Mekk#0001
 <details>
 <summary>Exploits</summary>
   
-<strong>Unlock Notes:</strong> Unlocks most explorer notes
+<br><strong>Unlock Notes:</strong> Unlocks most explorer notes
 
-<strong>Unlock Engrams:</strong> Unlocks engrams but you can only craft them and not be able to use the items that you crafted
+<br><strong>Unlock Engrams:</strong> Unlocks engrams but you can only craft them and not be able to use the items that you crafted
 
-<strong>Long Arms:</strong> Longer range for picking up items such as item caches, and longer range for access inventories
+<br><strong>Long Arms:</strong> Longer range for picking up items such as item caches, and longer range for access inventories
 
-<strong>Transmitter Bag:</strong> Allows the player to drop a bag on the ground, and use it like a transmitter. The player can upload/download items, upload/download dinos but not use the bag to transfer onto a different server
+<br><strong>Transmitter Bag:</strong> Allows the player to drop a bag on the ground, and use it like a transmitter. The player can upload/download items, upload/download dinos but not use the bag to transfer onto a different server
 
-<strong>Infinite Element:</strong> Infinitely fills your tek suit with element, even if there is no element in the player&#39;s inventory
+<br><strong>Infinite Element:</strong> Infinitely fills your tek suit with element, even if there is no element in the player&#39;s inventory
 
-<strong>Demolish Traps:</strong> Demolishes all bear traps in a certain area
+<br><strong>Demolish Traps:</strong> Demolishes all bear traps in a certain area
 
-<strong>Auto Loot:</strong> Automatically picks up all item caches and takes all items from dead/sleeping bodies while holding the keybind
+<br><strong>Auto Loot:</strong> Automatically picks up all item caches and takes all items from dead/sleeping bodies while holding the keybind
 
-<strong>Air Stuck:</strong> Freezes your character movement and/or your mounted dino movement
+<br><strong>Air Stuck:</strong> Freezes your character movement and/or your mounted dino movement
 
-<strong>Ghost Mode:</strong> Allows a player to fly through walls and scout bases (Client Sided Only)
+<br><strong>Ghost Mode:</strong> Allows a player to fly through walls and scout bases (Client Sided Only)
 
-<strong>Player Speed:</strong> Makes your character run super fast
+<br><strong>Player Speed:</strong> Makes your character run super fast
 
-<strong>Gamertag Spoofer:</strong> Changes your gamertag (Must specify what you want the gamertag to be on the menu or it won't work)
+<br><strong>Gamertag Spoofer:</strong> Changes your gamertag (Must specify what you want the gamertag to be on the menu or it won't work)
 
-<strong>Auto Armor:</strong> Automatically swaps equiped armor around
+<br><strong>Auto Armor:</strong> Automatically swaps equiped armor around
 
-<strong>Auto Brew:</strong> Automatically drinks med brews from your inventory
+<br><strong>Auto Brew:</strong> Automatically drinks med brews from your inventory
 
-<strong>Character Creator:</strong> Has a preset to make the character as small as possible, as well as being able to change the color of the characters skin to colors that are not avaliable in the Create a character menu
+<br><strong>Character Creator:</strong> Has a preset to make the character as small as possible, as well as being able to change the color of the characters skin to colors that are not avaliable in the Create a character menu
 
-<strong>No Spawn Animation:</strong> Removes the animation when the player spawns in, allowing them to move straight away
+<br><strong>No Spawn Animation:</strong> Removes the animation when the player spawns in, allowing them to move straight away
 
-<strong>No Sway:</strong> Removes the swaying of the scope when aiming down sights
+<br><strong>No Sway:</strong> Removes the swaying of the scope when aiming down sights
 
-<strong>No Shake:</strong> Removes the recoil of any gun
+<br><strong>No Shake:</strong> Removes the recoil of any gun
 
-<strong>No Spread:</strong> Stops shotgun bullets from spreading in different directions
+<br><strong>No Spread:</strong> Stops shotgun bullets from spreading in different directions
 
-<strong>No Unequip:</strong> Stops items from being put away when accessing an inventory
+<br><strong>No Unequip:</strong> Stops items from being put away when accessing an inventory
 
-<strong>No Overheat:</strong> Tek Rifle and Tek Railgun don&#39;t overheat
+<br><strong>No Overheat:</strong> Tek Rifle and Tek Railgun don&#39;t overheat
 
-<strong>Bow Mod:</strong> Tek Bow instantly fire at top speed
+<br><strong>Bow Mod:</strong> Tek Bow instantly fire at top speed
 
-<strong>Insta Scope:</strong> Instantly scopes in, instead of having a small delay
+<br><strong>Insta Scope:</strong> Instantly scopes in, instead of having a small delay
 
-<strong>Spyglass:</strong> Weapons act as spyglasses
+<br><strong>Spyglass:</strong> Weapons act as spyglasses
 
-<strong>Rapid Fire:</strong> Weapon fires bullets extremely fast
+<br><strong>Rapid Fire:</strong> Weapon fires bullets extremely fast
 
-<strong>Infinite Tek Punch:</strong> When pressing a keybind, it makes the character tek punch no matter what the player is holding
+<br><strong>Infinite Tek Punch:</strong> When pressing a keybind, it makes the character tek punch no matter what the player is holding
 
-<strong>Client Skins:</strong> Client sided skins for weapons (Like gun camos in Call Of Duty but client side)
+<br><strong>Client Skins:</strong> Client sided skins for weapons (Like gun camos in Call Of Duty but client side)
 
-<strong>Instant Turn:</strong> Instantly turns the dino that you are riding
+<br><strong>Instant Turn:</strong> Instantly turns the dino that you are riding
 
-<strong>Backwards Movement:</strong> Allows any dino to move backwards at a sprinting speed
+<br><strong>Backwards Movement:</strong> Allows any dino to move backwards at a sprinting speed
 
-<strong>Strafe Move:</strong> Allows any dino the move left and right like a Griffin or Tapejara can
+<br><strong>Strafe Move:</strong> Allows any dino the move left and right like a Griffin or Tapejara can
 
-<strong>Force Mount:</strong> Force your player to mount any tribe dino within a limited range
+<br><strong>Force Mount:</strong> Force your player to mount any tribe dino within a limited range
 
-<strong>Auto Remount:</strong> Automatically remounts your player onto a dino
+<br><strong>Auto Remount:</strong> Automatically remounts your player onto a dino
 
-<strong>Dino Speed:</strong> Makes your dino run super fast
+<br><strong>Dino Speed:</strong> Makes your dino run super fast
 </details>
 
 <details>
