@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel = "icon" href = "https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fphotos%2Fimages%2Fnewsfeed%2F002%2F432%2F404%2Fe14.jpg" type = "image/x-icon">
+<link rel = "icon" href = "https://github.com/MekkOP/Primal/blob/main/assets/img/favicons/favicon.ico" type = "image/x-icon">
 </head>
 <body>
 Made by Mekk#0001
