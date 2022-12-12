@@ -1,6 +1,6 @@
 <html>
 <body>
-<font size="+3">Features</font>
+<h1 id="features">Features</h1>
 <details>
 <summary>Visuals > Players</summary>
 &emsp;&emsp;Enemy Players
@@ -156,9 +156,7 @@
 <br>&emsp;&emsp;&emsp;Font Scale Sliders
 </details>
 <br>
-</body>
-<font size="+3">Descriptions</font>
-<body>
+<h1 id="description">Description</h1>
 <br>
 <details>
 <summary>Aimbot</summary>
@@ -272,9 +270,7 @@
 <br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
 </details>
 <br>
-</body>
-<font size="+3">Changelogs</font>
-<body>
+<h1 id="description">Description</h1>
 <br>
 <br><strong>Changelogs (7:30pm 11/22/22 EST)</strong>
  - Added Structure ESP
