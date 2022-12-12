@@ -191,7 +191,7 @@ Made by Mekk#0001
 <details>
 <summary>Exploits</summary>
   
-<br><strong>Unlock Notes:</strong> Unlocks most explorer notes
+<strong>Unlock Notes:</strong> Unlocks most explorer notes
 
 <br><strong>Unlock Engrams:</strong> Unlocks engrams but you can only craft them and not be able to use the items that you crafted
 
