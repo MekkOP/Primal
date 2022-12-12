@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Cool Website</title>
+  <title>Primal</title>
   <style>
     body {
       background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/5889.jpg);
