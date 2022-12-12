@@ -5,7 +5,7 @@
     body {
       background-color: #333;
       color: #fff;
-      font-family: sans-serif;
+      font-family: comic;
       margin: 0;
       padding: 0;
     }
