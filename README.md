@@ -167,7 +167,8 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Text Color #1
 <br>&emsp;&emsp;Text Color #2
 <br>&emsp;&emsp;Crosshair/Aim FOV
-<br>\<br>
+<br>
+<br>
 </details>
 
 <br>
@@ -338,19 +339,3 @@ Made by Mekk#0001
 <br> - Armor Icons For Players
   </body>
 </html>
-
-![image](https://user-images.githubusercontent.com/116862033/206963474-3c389ab1-2d38-44fd-8a66-1587c33fc8b9.png)
-![image](https://user-images.githubusercontent.com/116862033/206963510-e42c45dd-d063-48d5-93dd-10ceda2840bd.png)
-![image](https://user-images.githubusercontent.com/116862033/206963527-ed08ee91-de47-42a1-a722-2c09483254ee.png)
-![image](https://user-images.githubusercontent.com/116862033/206963545-77a1de8e-39c4-4f5f-abe0-0849efd934a1.png)
-![image](https://user-images.githubusercontent.com/116862033/206963562-2ca78857-bb34-4c60-886b-b12dd9e0c58a.png)
-![image](https://user-images.githubusercontent.com/116862033/206963614-8ef5413d-1427-4961-b631-12bbeb56cee3.png)
-![image](https://user-images.githubusercontent.com/116862033/206963638-5ac3cb7f-fe6e-47b6-adaa-bd7335bffb8c.png)
-![image](https://user-images.githubusercontent.com/116862033/206963653-f1ec092d-6269-4be6-ad19-d6e035de6b48.png)
-![image](https://user-images.githubusercontent.com/116862033/206963670-9362d034-fb36-46b5-960f-b4ab8abcefbe.png)
-![image](https://user-images.githubusercontent.com/116862033/206963686-38d41cdd-feea-4935-a579-03454adf17c3.png)
-![image](https://user-images.githubusercontent.com/116862033/206963703-3091d063-05c1-4458-80e8-0fde2890ec9c.png)
-![image](https://user-images.githubusercontent.com/116862033/206963722-45d8632f-589e-460e-b85c-2a34eec52d68.png)
-![image](https://user-images.githubusercontent.com/116862033/206963733-7fccb5ea-a344-483a-a9c2-abbe892087e7.png)
-![image](https://user-images.githubusercontent.com/116862033/206963757-1cb233a8-3abf-43d2-858c-87107157882d.png)
-![image](https://user-images.githubusercontent.com/116862033/206963772-4d3a681f-7432-43ae-b756-a67da7d93b92.png)
