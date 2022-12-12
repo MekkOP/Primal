@@ -1,7 +1,10 @@
 <html>
-  <head>
-  </head>
-  <body>
+<head>
+<link rel="icon" 
+type="image/png" 
+href="http://example.com/myicon.png">
+</head>
+<body>
 Made by Mekk#0001
 <form action="https://primalcheats.pro">
 <input type="submit" value="Primal Cheats Official Website"/>
