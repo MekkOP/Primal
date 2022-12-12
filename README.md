@@ -157,7 +157,6 @@
 </details>
 <br>
 <h1 id="description">Description</h1>
-<br>
 <details>
 <summary>Aimbot</summary>
 <strong>Aimbot:</strong> Locks onto a player inside of your aim fov when a key is pressed
@@ -270,7 +269,7 @@
 <br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
 </details>
 <br>
-<h1 id="description">Description</h1>
+<h1 id="changelogs">Changelogs</h1>
 <strong>Changelogs (7:30pm 11/22/22 EST)</strong>
  - Added Structure ESP
  - Added Auto Brew in Player Mods under Exploits Tab
