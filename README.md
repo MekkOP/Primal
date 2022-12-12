@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+Made by Mekk#0001
 <html>
   <head>
   </head>
@@ -297,6 +297,5 @@
 <br><form action="https://primalcheats.pro">
 <input type="submit" value="Primal Cheats Official Website"/>
 </form>
-<br><strong>Made by Mekk#0001</strong>
   </body>
 </html>
