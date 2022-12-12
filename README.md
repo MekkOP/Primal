@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Primal</title>
   </head>
   <body>
 <h1 id="features">Features</h1>
