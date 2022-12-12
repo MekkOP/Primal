@@ -294,7 +294,6 @@
 <br><form action="https://primalcheats.pro">
 <input type="submit" value="Primal Cheats Official Website"/>
 </form>
-<br>
-<br><strong>Made my Mekk#0001</strong>
+<br><strong>Made by Mekk#0001</strong>
 </body>
 </html>
