@@ -155,7 +155,9 @@
 <br>&emsp;&emsp;&emsp;Font Scale Sliders
 </details>
 <br>
+</body>
 <t1>Descriptions</t1>
+<body>
 <br>
 <details>
 <summary>Aimbot</summary>
@@ -269,7 +271,9 @@
 <br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
 </details>
 <br>
+</body>
 <t1>Changelogs</t1>
+<body>
 <br>
 <br><strong>Changelogs (7:30pm 11/22/22 EST)</strong>
  - Added Structure ESP
