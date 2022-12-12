@@ -4,7 +4,7 @@
     <style>
       .box {
       background: url("https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png") fixed;
-      width: 10%;
+      width: 80%;
       margin-left:10%;
       margin-top: 10%;
       }
