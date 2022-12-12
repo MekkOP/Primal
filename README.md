@@ -49,7 +49,6 @@ Made by Mekk#0001
 <summary>Visuals > Misc</summary>
 &emsp;&emsp;HUD
 <br>
-<br>
 </details>
 
 <br>
@@ -87,7 +86,6 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Target Tribe
 <br>&emsp;&emsp;Rapid
 <br>&emsp;&emsp;Ignore Shield
-<br>
 <br>
 </details>
 
@@ -145,7 +143,6 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Auto Remount
 <br>&emsp;&emsp;Speed
 <br>
-<br>
 </details>
 
 <br>
@@ -168,7 +165,6 @@ Made by Mekk#0001
 <br>&emsp;&emsp;Text Color #2
 <br>&emsp;&emsp;Crosshair/Aim FOV
 <br>
-<br>
 </details>
 
 <br>
@@ -189,7 +185,6 @@ Made by Mekk#0001
 <br>&emsp;&emsp;&emsp;Opacity Sliders
 <br>&emsp;&emsp;Font Scale
 <br>&emsp;&emsp;&emsp;Font Scale Sliders
-<br>
 <br>
 </details>
 <br>
