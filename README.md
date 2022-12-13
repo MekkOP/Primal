@@ -14,7 +14,7 @@
     }
     .transparent-rectangle {
       background-color: rgba(255,255,255,0);
-      width: 60%;
+      width: 90%;
       height: 1200px;
       margin: 0 auto;
       text-align: center;
