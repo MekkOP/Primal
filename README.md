@@ -338,9 +338,9 @@
 <h1 id="changelogs">Changelogs</h1>
 <strong>Changelogs (7:30pm 11/22/22 EST)</strong>
 <br> - Added Structure ESP
-<br> - Added Auto Brew in Player Mods under Exploits Tab
-<br> - Added All Dino Mods under Exploits Tab
-<br> - Added Font Scaling under Settings Tab
+<br> - Added Auto Brew in Player Mods
+<br> - Added All Dino Mods
+<br> - Added Font Scaling
 <br>
 <br><strong>Changelogs (4:00am 12/5/22 EST)</strong>
 <br> - All settings should now save
