@@ -345,16 +345,16 @@
 <br><strong>Changelogs (4:00am 12/5/22 EST)</strong>
 <br> - All settings should now save
 <br> - Stability/Crash fixes
-<br> - Turrets No Longer Count As Containers (was not intended)
+<br> - Turrets No Longer Count As Containers
 <br> - Auto Brew Customizable Threshold & Brew Interval
 <br> - Changeable + Savable Menu Key
 <br> - No Overheat for tek rail gun and tek rifle
-<br> - Trans bag toggle + better trans bag (now allows you to upload items)
-<br> - Character Creator (custom character color + small bone preset)
+<br> - Trans bag toggle + better trans bag
+<br> - Character Creator
 <br> - No Spawn Animation
 <br> - Infinite Element
-<br> - Demo Nearby Enemy Traps (limited radius)
-<br> - Bow Mod (click to fire - max speed arrows)
+<br> - Demo Nearby Enemy Traps
+<br> - Bow Mod
 <br> - Armor Icons For Players
 <br>
 <br>
