@@ -4,7 +4,7 @@
   <title>Primal</title>
   <style>
     body {
-      background-image: url(https://4kwallpapers.com/images/walls/thumbs_3t/5889.jpg);
+      background-image: url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg);
       background-size: cover;
       background-attachment: fixed;
       color: #fff;
